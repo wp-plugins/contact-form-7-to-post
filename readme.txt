@@ -1,5 +1,5 @@
 === Contact Form 7 to Post ===
-Contributors: bastho
+Author: bastho
 Donate link: http://ba.stienho.fr/#don
 Tags: contact form 7, contactform7, cf7, Post, edit on front, post on front
 Requires at least: 4.0
@@ -12,7 +12,7 @@ Save contact form 7 submissions as new posts
 
 == Description ==
 
-Save each contact form 7 submission as a new post.
+Save each [contact form 7](https://wordpress.org/plugins/contact-form-7/) submission as a new post.
 
 This feature allow non logged-in users to create new posts within the canvas you will define.
 
