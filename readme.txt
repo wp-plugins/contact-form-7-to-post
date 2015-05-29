@@ -17,6 +17,7 @@ Save each [contact form 7](https://wordpress.org/plugins/contact-form-7/) submis
 This feature allow non logged-in users to create new posts within the canvas you will define.
 
 Some options are customizable:
+
 * Post type
 * Post status can be **draft** or **published**
 * Both title and content are editable with CF7 shotcodes, just like native emails.
