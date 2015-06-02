@@ -1,5 +1,5 @@
 === Contact Form 7 to Post ===
-Author: bastho
+Contributors: bastho
 Donate link: http://ba.stienho.fr/#don
 Tags: contact form 7, contactform7, cf7, Post, edit on front, post on front
 Requires at least: 4.0
